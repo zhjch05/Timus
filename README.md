@@ -1,8 +1,11 @@
 # Timus
+Timus is a command line tool for automating tasks in writing problems of TimusOJ, the Online Judge system.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/timus`. To experiment with that code, run `bin/console` for an interactive prompt.
+For ACM ICPC problems, see the official timusOJ website http://acm.timus.ru/
 
-TODO: Delete this and the text above, and describe your gem
+This cli tool helps you create and manage your timus local project directory.
+
+You can make the project folder a git repo, write sub problems, have quick access to problems sets lists in the website, and automatically make/submit your solutions.
 
 ## Installation
 
@@ -22,7 +25,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This project is under basic setup development, so now it is not functionable.
 
 ## Development
 
