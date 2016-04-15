@@ -1,8 +1,9 @@
 # Timus
 
-[![Build Status](https://travis-ci.org/zhjch05/Timus.svg?branch=master&style=flat-square)](https://travis-ci.org/zhjch05/Timus)
+[![Build Status](https://img.shields.io/travis/zhjch05/Timus.svg?style=flat-square)](https://travis-ci.org/zhjch05/Timus)
 [![Code Climate](https://codeclimate.com/github/zhjch05/Timus/badges/gpa.svg?style=flat-square)](https://codeclimate.com/github/zhjch05/Timus)
 [![Test Coverage](https://codeclimate.com/github/zhjch05/Timus/badges/coverage.svg?style=flat-square)](https://codeclimate.com/github/zhjch05/Timus/coverage)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/zhjch05/Timus/master/LICENSE.txt)
 
 -------------------------------------------------------------------------------
 
