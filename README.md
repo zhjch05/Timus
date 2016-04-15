@@ -1,13 +1,10 @@
 # Timus
 
-[![Build Status](https://travis-ci.org/zhjch05/Timus.svg?branch=master)](https://travis-ci.org/zhjch05/Timus)
+[![Build Status](https://travis-ci.org/zhjch05/Timus.svg?branch=master&style=flat-square)](https://travis-ci.org/zhjch05/Timus)
+[![Code Climate](https://codeclimate.com/github/zhjch05/Timus/badges/gpa.svg?style=flat-square)](https://codeclimate.com/github/zhjch05/Timus)
+[![Test Coverage](https://codeclimate.com/github/zhjch05/Timus/badges/coverage.svg?style=flat-square)](https://codeclimate.com/github/zhjch05/Timus/coverage)
 
-[![Code Climate](https://codeclimate.com/github/zhjch05/Timus/badges/gpa.svg)](https://codeclimate.com/github/zhjch05/Timus)
-
-[![Test Coverage](https://codeclimate.com/github/zhjch05/Timus/badges/coverage.svg)](https://codeclimate.com/github/zhjch05/Timus/coverage)
-
----
-
+-------------------------------------------------------------------------------
 
 Timus is a command line tool for automating tasks in writing problems of TimusOJ, the Online Judge system.
 

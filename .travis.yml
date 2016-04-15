@@ -2,3 +2,6 @@ language: ruby
 rvm:
   - 2.3.0
 before_install: gem install bundler -v 1.11.2
+addons:
+  code_climate:
+    repo_token: 237ba64b253d64e85fe29e462245c4aa871c951c34b2b2fdb11df0faa11ae5f6
