@@ -1,7 +1,10 @@
 source 'https://rubygems.org'
 gem 'rake'
-gem 'rspec'
-gem 'kramdown'
-gem "codeclimate-test-reporter", group: :test
+group :test do
+  gem 'aruba'
+  gem 'rspec'
+  gem 'kramdown'
+  gem "codeclimate-test-reporter"
+end
 # Specify your gem's dependencies in timus.gemspec
 gemspec

@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require "timus"
+require "timus/cli"
 Timus::CLI.start ARGV
