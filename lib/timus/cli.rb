@@ -6,6 +6,7 @@ module Timus
     desc "new <folder>", "Create a new project folder in current directory for timusOJ (./timusOJ by default)"
     def new(folder="timusOJ")
       empty_directory("#{folder}")
+      empty_directory("#{folder}/templates")
     end
   end
 end
