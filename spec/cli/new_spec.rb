@@ -20,7 +20,7 @@ describe "timus new" do
   end
 
   it "should create templates sub-folder" do
-    timus.new
-    expect(directory?("timusOJ/templates")).to be true
+    timus.new "foobar"
+    expect(directory?("foobar/templates")).to be true
   end
 end
