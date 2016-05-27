@@ -18,6 +18,7 @@ module Timus
     def new(folder="timusOJ")
       empty_directory("#{folder}")
       empty_directory("#{folder}/templates")
+      empty_directory("#{folder}/timus.d")
       recommend_config
     end
   end
